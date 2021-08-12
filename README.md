@@ -1,5 +1,5 @@
 # AirBnB-data-analysis
-<img src="https://digital.hbs.edu/platform-digit/wp-content/uploads/sites/2/2019/10/airbnb-678x381.png" alt="alt text" width="800" height="400" align="centre">
+<img src="https://digital.hbs.edu/platform-digit/wp-content/uploads/sites/2/2019/10/airbnb-678x381.png" alt="alt text" width="800" height="400" align="center">
 
 # Dataset
 - Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
